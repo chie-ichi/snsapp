@@ -49,9 +49,11 @@ export default {
   .header__nav-list{
     display: flex;
     justify-content: flex-end;
+    list-style: none;
   }
   .header__nav-list-item{
     margin-left: 1em;
+    list-style: none;
   }
   .header__nav-list-link{
     color: #fff;

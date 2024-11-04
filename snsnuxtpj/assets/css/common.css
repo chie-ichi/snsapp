@@ -1,0 +1,10 @@
+body{
+    background: #17202a;
+    color: #fff;
+}
+a{
+    transition: .3s all ease;
+}
+a:hover{
+    opacity: 0.7;
+}
